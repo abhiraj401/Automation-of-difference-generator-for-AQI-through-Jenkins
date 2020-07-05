@@ -1,6 +1,6 @@
 '''
 Author : ABHIRAJ.G
-Email id : abhiraj.garakapati@amd.com
+Email id : abhiraj.garakapati@gmail.com
 
 Input should be like this: 
 python -W ignore db4.py <latest compiler rev> <previous compiler rev> <work directory> <MAINLINE or STAGING>
